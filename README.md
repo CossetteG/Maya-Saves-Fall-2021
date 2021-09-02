@@ -114,3 +114,6 @@ Double click an edge to slect an edge loop
 
 Extrude
 hold tab to paint a selection
+
+Duplicate
+Selected Obj>Edit> Duplicate Special> (Ctrl+Shift+D)
